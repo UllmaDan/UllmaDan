@@ -9,20 +9,20 @@
 🟩🟩🟩🟩🟥 should work more on that skill, but could see some potential.  
 🟩🟩🟩🟩🟩 feels comfortable with.
 
-- German 🟩🟩🟩🟩🟩
-- English 🟩🟩🟩🟩🟥
-- Kanban 🟩🟩🟩🟥🟥
-- HTML 🟩🟥🟥🟥🟥
-- CSS 🟩🟥🟥🟥🟥
-- JavaScript 🟩🟩🟩🟥🟥
-- JSON 🟩🟩🟥🟥🟥
-- C 🟩🟩🟩🟩🟩
-- C# 🟩🟩🟩🟥🟥
-- Godot 🟩🟩🟩🟩🟥
-- Python 🟩🟩🟥🟥🟥
-- Go 🟩🟩🟥🟥🟥
-- PHP 🟩🟩🟩🟩🟩
-- SQL 🟩🟩🟩🟩🟥
+- 🟩🟩🟩🟩🟩 German
+- 🟩🟩🟩🟩🟥 English
+- 🟩🟩🟩🟥🟥 Kanban
+- 🟩🟥🟥🟥🟥 HTML
+- 🟩🟥🟥🟥🟥 CSS
+- 🟩🟩🟩🟥🟥 JavaScript
+- 🟩🟩🟥🟥🟥 JSON
+- 🟩🟩🟩🟩🟩 C
+- 🟩🟩🟩🟥🟥 C#
+- 🟩🟩🟩🟩🟥 Godot
+- 🟩🟩🟥🟥🟥 Python
+- 🟩🟩🟥🟥🟥 Go
+- 🟩🟩🟩🟩🟩 PHP
+- 🟩🟩🟩🟩🟥 SQL
 
 ## The company I work for and the projects I am involved in.
 
