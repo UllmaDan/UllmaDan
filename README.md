@@ -16,6 +16,7 @@
 - 🟩🟥🟥🟥🟥 CSS
 - 🟩🟩🟩🟥🟥 JavaScript
 - 🟩🟩🟥🟥🟥 JSON
+- 🟩🟩🟩🟩🟥 jq
 - 🟩🟩🟩🟩🟩 C
 - 🟩🟩🟩🟥🟥 C#
 - 🟩🟩🟩🟩🟥 Godot
@@ -30,6 +31,6 @@
 
 ### 🚐 <!--[WIP](Pendelbus Link)--> Pendelbus
 ### 📷 <!--[WIP](Kamera Link)--> Kamera
-
+### 💬<!--[WIP](Social Spectrum Project)--> Smalltalk Projekt für Menschen aus dem Autismusspektrum
 
 ### Emojis that I am using from: [Emojipedia](https://emojipedia.org/)
